@@ -3,7 +3,8 @@
 **TopoBayMatSNN** is a scientific machine learning environment tailored for modeling materials using Bayesian neural networks, topological deep learning, and simplicial neural networks.
 
 <div align="center">
-  <img width="512" height="512" alt="Logo-1" src="https://github.com/user-attachments/assets/fd7a2b71-c4bf-4d2c-8f5b-85b32567b23d" />
+  <img width="256" height="256" alt="Logo-1" src="Logo/Logo-1.png" style="margin-right: 20px;" />
+  <img width="256" height="256" alt="Logo-2" src="Logo/Logo-2.png" />
 </div>
 
 ---
